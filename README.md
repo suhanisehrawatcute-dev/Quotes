@@ -1,2 +1,2 @@
 # Quotes
-Quotes from various movies, books and tv shows.
+Quotes made by yours truly.
