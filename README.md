@@ -1,52 +1,47 @@
-Tidbits of Wisdom
+# Tidbits of Wisdom
 
-A simple quote generator designed to brighten your day.
+A simple idea generator guranteed to make you think.
 
-Description
+## Description
 
-Tidbits of Wisdom is a web application built using HTML, CSS and JavaScript. It displays ideas intended to make the person reaidn think, and it does so through a distraction-free experience.
+Tidbits of Wisdom is a web application built using HTML, CSS, and JavaScript. It displays ideas intended to make the person reading it see things from a different perspective. It does this through a simple and distraction-free experience.
+This project contains 11 original (give or take) quotes and was created as a way to develop my skills while also building something that makes me joyful.
 
-The project contains 11 quotes and was created as a way to develop my skills while also building something enjoyable.
+# Live website link:
+https://suhanisehrawatcute-dev.github.io/Quotes/
 
-Live website: https://suhanisehrawatcute-dev.github.io/Quotes/
+## Features
+* A collection of thought-provoking quotes.
+* A simple web interface
+* The ability to generate new quotes with a button
 
-Features
+# Technologies Used
+* HTML
+* CSS
+* JavaScript
+### Screenshots
+The screenshot below shows the website:
+<img width="1365" height="593" alt="image" src="https://github.com/user-attachments/assets/f24bb301-3228-4c1e-9485-430a9196e61c" />
 
-- A collection of original, though provoking quotes.
-- A simple website interface.
-- A lightweight experience built with HTML, CSS and JavaScript.
-- The ability to generate new quotes at a press of a button. 
+## Getting Started
 
-Technologies Used
+### Dependencies
 
-- HTML
-- CSS
-- JavaScript
+* Modern web browser
+* If you want to edit the source code, you will also need a code editor
 
-Screenshots
+### Installing
 
-The screenshot below shows the website in action.
+1. Clone or download this repository
+2. Open the project folder
+3. Open 'index.html' in your browser, or use a local development server if needed.
 
-<img width="1362" height="597" alt="Tidbits of Wisdom website screenshot" src="https://github.com/user-attachments/assets/11be24a0-292c-4acb-a990-a3cfac92e7dd" />Getting Started
+### Running the Website
 
-Prerequisites
+You can visit the live website using the link above, or open 'index.html' after downloading the project.
 
-You need a modern web browser, such as Google Chrome, Firefox or Safari, to run the website locally.
+## Help
 
-If you want to edit the source code, you will also need a code editor.
-
-Installation
-
-1. Clone or download this repository.
-2. Open the project folder.
-3. Open "index.html" in your browser, or use a local development server if needed.
-
-Running the Website
-
-You can visit the live website using the link above, or open "index.html" after downloading the project.
-
-Troubleshooting
-
-- The website does not open: Check that "index.html" is present in files and try opening it in a modern browser.
-- The styling is missing: Check that the CSS file exists and that the link to it in the HTML is correct.
-- The quote generator is not working: Check the JavaScript file and the browser's developer console for errors.
+* The website doesn't open: Check that 'index.html' is present in the files and try opening it in a modern browser.
+* The styling is missing: Check that the CSS file exists and that the link to it in the HTML is correct.
+* The quote generator is not working: Check the JavaScript file and the browser's developer console for errors.
